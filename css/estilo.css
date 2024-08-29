@@ -1,0 +1,87 @@
+*
+{
+    margin: 0px	;
+    background-color: black;
+}
+.padre
+{
+    background-color: brown;
+    padding: 50px;
+}
+.hijo
+{
+    background-color: yellow;
+    padding: 50px;
+}
+.nieto
+{
+    background-color: green;
+    padding: 50px;
+}
+.bisnieto
+{
+    background-color: blue;
+    margin: 50px;
+}
+.bisnieto1
+{
+    background-color: red;
+    padding: 50px;
+}
+.bisnieto2
+{
+    background-color: blueviolet;
+    padding: 50px;
+}
+.hijo2
+{
+    background-color: yellow;
+    padding: 50px;
+}
+.nietoo
+{
+    background-color: green;
+    padding: 50px;
+}
+.bisnietoo
+{
+    background-color: blue;
+    padding: 50px;
+}
+.bisnietoo1
+{
+    background-color: red;
+    padding: 50px;
+}
+.bisnietoo2
+{
+    background-color: blueviolet;
+    padding: 50px;
+}
+.hijoo
+{
+    background-color: yellow;
+    padding: 50px;
+    margin: 20px;
+}
+.a
+{
+    background-color: green;
+    padding: 50px;
+}
+.b
+{
+    background-color: blue;
+    padding: 50px;
+}
+.c
+{
+    background-color: red;
+    padding: 50px;
+}
+.d
+{
+    background-color: blueviolet;
+    padding: 50px;
+}
+
