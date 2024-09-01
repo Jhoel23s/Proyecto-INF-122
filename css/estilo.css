@@ -21,7 +21,7 @@
 .bisnieto
 {
     background-color: blue;
-    margin: 50px;
+    padding: 50px;
 }
 .bisnieto1
 {
@@ -62,7 +62,7 @@
 {
     background-color: yellow;
     padding: 50px;
-    margin: 20px;
+    margin-bottom: 20px;
 }
 .a
 {
